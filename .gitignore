@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Private configuration
+.env
+.streamlit/secrets.toml
+
+# Local temporary files
+*.log
